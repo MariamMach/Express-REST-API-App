@@ -1,0 +1,29 @@
+{
+  "records": [
+    {
+      "id": 3332,
+      "fact": "Eyes can process 36,000 bits of information every hour. Under the right conditions, the human eye can see the light of a candle at a distance of 14 miles!",
+      "category": "Human"
+    },
+    {
+      "id": 6763,
+      "fact": "THE CALCIUM IN OUR BONES AND THE IRON IN OUR BLOOD COME FROM ANCIENT EXPLOSIONS OF GIANT STARS.",
+      "category": "Human"
+    },
+    {
+      "fact": "THE NILE CROCODILE CAN HOLD ITS BREATH UNDERWATER FOR UP TO TWO HOURS WHILE WAITING FOR PREY.",
+      "category": "Animal",
+      "id": 4638
+    },
+    {
+      "fact": "HUMMINGBIRDS' WINGS CAN BEAT UP TO 200 TIMES A SECOND.",
+      "category": "Animal",
+      "id": 8159
+    },
+    {
+      "fact": "THE HIGHEST WAVE EVER SURFED WAS AS TALL AS A TEN STORY BUILDING.",
+      "category": "Human",
+      "id": 6951
+    }
+  ]
+}
