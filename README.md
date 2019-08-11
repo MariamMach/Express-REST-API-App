@@ -10,7 +10,6 @@ To install dependencies
 To start the app
 - nodemon app.js
 
-A simple rest api using express only
 To test the api go ahead and install [postman](https://www.getpostman.com/)
 
 Send a Get request to /api/facts/:id to read a fact
